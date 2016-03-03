@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Relations>
+	<relation>
+		<friend1>0</friend1>
+		<friend2>1</friend2>
+	</relation>
+	<relation>
+		<friend1>0</friend1>
+		<friend2>3</friend2>
+	</relation>
+	<relation>
+		<friend1>0</friend1>
+		<friend2>5</friend2>
+	</relation>
+	<relation>
+		<friend1>1</friend1>
+		<friend2>2</friend2>
+	</relation>
+	<relation>
+		<friend1>1</friend1>
+		<friend2>5</friend2>
+	</relation>
+	<relation>
+		<friend1>3</friend1>
+		<friend2>4</friend2>
+	</relation>
+	<relation>
+		<friend1>4</friend1>
+		<friend2>0</friend2>
+	</relation>
+	<relation>
+		<friend1>5</friend1>
+		<friend2>6</friend2>
+	</relation>
+	<relation>
+		<friend1>7</friend1>
+		<friend2>8</friend2>
+	</relation>
+</Relations>

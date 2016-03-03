@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="0">
+		<name>shurooq</name>
+		<age>21</age>
+		<height>160</height>
+		<weight>48</weight>
+		<major>computer science</major>
+		<location>12,14</location>
+		<address>Beit Duqqo </address>
+	</user>
+	<user id="1">
+		<name>Layali</name>
+		<age>21</age>
+		<height>165</height>
+		<weight>64</weight>
+		<major>computer science</major>
+		<location>120,140</location>
+		<address>Betien </address>
+	</user>
+	<user id="2">
+		<name>Sana</name>
+		<age>21</age>
+		<height>162</height>
+		<weight>50</weight>
+		<major>computer science</major>
+		<location>180,130</location>
+		<address>silwad </address>
+	</user>
+	<user id="3">
+		<name>Elham</name>
+		<age>21</age>
+		<height>165</height>
+		<weight>53</weight>
+		<major>nutrition</major>
+		<location>143,170</location>
+		<address>Beit Duqqo </address>
+	</user>
+	<user id="4">
+		<name>waad</name>
+		<age>21</age>
+		<height>160</height>
+		<weight>55</weight>
+		<major>nutrition</major>
+		<location>20,60</location>
+		<address>Sinjle </address>
+	</user>
+	<user id="5">
+		<name>Aya</name>
+		<age>21</age>
+		<height>170</height>
+		<weight>60</weight>
+		<major>Finance</major>
+		<location>65,70</location>
+		<address>Rafat </address>
+	</user>
+	<user id="6">
+		<name>Masa</name>
+		<age>21</age>
+		<height>165</height>
+		<weight>55</weight>
+		<major>Computer system engeneering</major>
+		<location>245,140</location>
+		<address>Kofr el-deek </address>
+	</user>
+	<user id="7">
+		<name>Tasneem</name>
+		<age>21</age>
+		<height>158</height>
+		<weight>60</weight>
+		<major>Computer System Engeneering</major>
+		<location>44,90</location>
+		<address>Qarawa </address>
+	</user>
+	<user id="8">
+		<name>Salam</name>
+		<age>21</age>
+		<height>158</height>
+		<weight>60</weight>
+		<major>Computer System Engeneering</major>
+		<location>66,53</location>
+		<address>Betello </address>
+	</user>
+	<user id="9">
+		<name>Islam</name>
+		<age>21</age>
+		<height>158</height>
+		<weight>65</weight>
+		<major>Computer System Engeneering</major>
+		<location>124,144</location>
+		<address>Betello </address>
+	</user>
+</users>
